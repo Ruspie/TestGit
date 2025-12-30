@@ -14,7 +14,7 @@ public class Main {
         System.out.println(isPrime(8)); // false
         System.out.println(isPrime(9)); // false
         System.out.println(isPrime(11)); // true
-        System.out.println(isPrime(15)); // false
+        System.out.println(isPrime(16)); // false
     }
 
     public static boolean isPrime(int number) {
